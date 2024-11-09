@@ -6,7 +6,6 @@
  * Sample expression: 1+2-3+4-5
  */
 #include <stdio.h>
-#include <stdlib.h>
 
 long long
 eval(char *exp)
